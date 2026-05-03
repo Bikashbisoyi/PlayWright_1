@@ -1,0 +1,23 @@
+{
+  "name": "playwright_1",
+  "version": "1.0.0",
+  "description": "Practicing Playwright code",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikashbisoyi/PlayWright_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bikashbisoyi/PlayWright_1/issues"
+  },
+  "homepage": "https://github.com/Bikashbisoyi/PlayWright_1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
